@@ -1,7 +1,6 @@
 package dev.xhyrom.anvil2polar;
 
 import net.hollowcube.polar.AnvilPolar;
-import net.hollowcube.polar.ChunkSelector;
 import net.hollowcube.polar.PolarWriter;
 
 import java.nio.file.Files;
